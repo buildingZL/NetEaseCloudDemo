@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LayoutHeaderView.qml</file>
+        <file>LayoutMiddlView.qml</file>
+        <file>LayoutBottomView.qml</file>
+        <file>LayoutMiddleLeftButton.qml</file>
+        <file>LayoutMiddleLeftIconButton.qml</file>
+        <file>DetailsDiscoverQml.qml</file>
+        <file>DetailsPodcastQml.qml</file>
+        <file>DetailsVideoQml.qml</file>
+        <file>DetailsFollowQml.qml</file>
+        <file>DetailsLiveBroadcastQml.qml</file>
+        <file>DetailsPrivatePersonQml.qml</file>
+        <file>DetailsMyLikeMusicQml.qml</file>
+        <file>DetailsLocalMusicQml.qml</file>
+        <file>DetailsRecentlyPlayedQml.qml</file>
+        <file>BannerView.qml</file>
+        <file>SubFrame_PersonalRecommendation.qml</file>
+        <file>SubFrame_ExclusiveCustomization.qml</file>
+        <file>SubFrame_SongList.qml</file>
+        <file>SubFrame_Leaderboard.qml</file>
+        <file>SubFrame_Singer.qml</file>
+        <file>SubFrame_LatestMusic.qml</file>
+        <file>SongListRectang.qml</file>
+        <file>SongListFrame.qml</file>
+        <file>workerScript.js</file>
+    </qresource>
+</RCC>

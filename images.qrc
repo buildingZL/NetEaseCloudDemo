@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/music.png</file>
+        <file>images/max_screen.png</file>
+        <file>images/min_screen.png</file>
+        <file>images/search.png</file>
+        <file>images/power.png</file>
+        <file>images/restore.png</file>
+        <file>images/download.png</file>
+        <file>images/favorite.png</file>
+        <file>images/recently_played.png</file>
+        <file>images/test.jpg</file>
+        <file>images/list_loop.png</file>
+        <file>images/next.png</file>
+        <file>images/play_music.png</file>
+        <file>images/previous.png</file>
+        <file>images/paly_list.png</file>
+        <file>images/lyric.png</file>
+        <file>images/24gl-volumeDisable.png</file>
+        <file>images/24gl-volumeZero.png</file>
+        <file>images/advance.png</file>
+        <file>images/recoil.png</file>
+        <file>images/fold.png</file>
+        <file>images/unfold.png</file>
+        <file>images/pause_music.png</file>
+    </qresource>
+</RCC>
