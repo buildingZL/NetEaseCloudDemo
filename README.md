@@ -14,9 +14,15 @@
 - Qt version:Qt5.15.2
 
 # test picture
+
+主页
+
 ![home.png](./doc/images/home.png)
-<br>
+
+歌单页面
+
 ![songListPage.png](./doc/images/songListPage.png)
-<br>
+
+音量控制
+
 ![volume.png](./doc/images/volume.png)
-<br>
