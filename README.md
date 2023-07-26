@@ -27,7 +27,7 @@
 
 ![volume.png](./doc/images/volume.png)
 
-#已完成功能
+# 已完成功能
 
 - 主页显示，轮播图动画
 - 歌单页面
