@@ -15,7 +15,8 @@
 
 # test picture
 ![home.png](./doc/images/home.png)
-
+<br>
 ![songListPage.png](./doc/images/songListPage.png)
-
+<br>
 ![volume.png](./doc/images/volume.png)
+<br>
